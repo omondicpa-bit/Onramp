@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+.next/
+
+# Secrets — never commit these
+.seed
+ledger.db
+ledger.db-*
+.env
+.env.local

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.seed
+ledger.db
+ledger.db-*
+.env
